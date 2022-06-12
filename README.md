@@ -8,7 +8,7 @@ Get a release from [github releases](https://github.com/Guaxinim5573/what-to-cod
 ```
 tar xvf what-to-code*.tar.gz
 cd what-to-code-cli
-sudo ./install
+sudo ./install.sh
 ```
 ### From source
 ```bash
